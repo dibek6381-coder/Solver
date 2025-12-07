@@ -1,0 +1,5 @@
+{
+  "name": "AIMO System Architect",
+  "description": "An interactive dashboard and code generator for the Kaggle AIMO Progress Prize 3 competition, featuring system design visualization, code repository, and AI-assisted strategy planning.",
+  "requestFramePermissions": []
+}
